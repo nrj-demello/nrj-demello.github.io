@@ -27,34 +27,36 @@ text-decoration: underline;
     width: 60%;
    }
     
-    .oblique
+.oblique
         {
             font-style: oblique;
         }
-     .large
+
+.large
         {
         font-size: large;    
         }   
     
-        .dotted
+.dotted
         {
         border-style: dotted;
         }
     
-    .diffont
+.diffont
         {
         font-family: 'Courier New', Courier, monospace;
             
         }
-     .larger
+.larger
         {
         font-size: large;    
         }   
-    a
+a
         {
         color: rgb(182, 31, 31);
         }
 
-    a:hover {
-            background-color: black;
+a:hover 
+        {
+            background-color: yellow;
           }
