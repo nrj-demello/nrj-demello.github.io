@@ -20,12 +20,12 @@ text-decoration: underline;
 }
 
 .middle
-        {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            width: 60%;
-        }
+    {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+   }
     
     .oblique
         {
@@ -38,12 +38,12 @@ text-decoration: underline;
     
         .dotted
         {
-            border-style: dotted;
+        border-style: dotted;
         }
     
     .diffont
         {
-            font-family: 'Courier New', Courier, monospace;
+        font-family: 'Courier New', Courier, monospace;
             
         }
      .larger
